@@ -490,5 +490,13 @@
             "Type": "movie",
             "Poster": "https://m.media-amazon.com/images/M/MV5BN2M2NzhkMWUtZGJkOS00NjZiLThkOGItMWMwOGQxNjFkMDJhXkEyXkFqcGdeQXVyNDQ2MTMzODA@._V1_SX300.jpg"
         }
+    ],
+    "user": [
+        {
+            "name": "Admin",
+            "username": "admin",
+            "password": "admin",
+            "dob": "01-01-1996"
+        }
     ]
 }
